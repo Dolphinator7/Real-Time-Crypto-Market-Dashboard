@@ -28,10 +28,9 @@ This is a real-time cryptocurrency analytics pipeline that collects live data fr
 
 > ** [Real-Time Crypto Market Dashboard](https://lookerstudio.google.com/s/u082dTM6sAQ)
 
-![Dashboard Preview]
+[Dashboard Preview]
 ![Real-Time Crypto Market Dashboard](https://github.com/user-attachments/assets/0fd976d0-e12d-42dd-89e1-4a1bc61f7b27)
 
----
 
 ## 📁 Folder Structure
 crypto-pulse/
