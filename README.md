@@ -31,17 +31,3 @@ This is a real-time cryptocurrency analytics pipeline that collects live data fr
 [Dashboard Preview]
 ![Real-Time Crypto Market Dashboard](https://github.com/user-attachments/assets/0fd976d0-e12d-42dd-89e1-4a1bc61f7b27)
 
-
-## 📁 Folder Structure
-crypto-pulse/
-├── data/
-│   ├── crypto_data.csv
-│   └── crypto_data.json
-├── keys/
-│   └── service_account_key.json  (add this to .gitignore)
-├── pipeline.py
-├── requirements.txt
-├── .env.example
-├── .gitignore
-├── README.md
-
